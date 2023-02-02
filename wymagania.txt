@@ -2,4 +2,8 @@ logowanie
 rejestrowanie
 wydruki
 przesylanie danych
+<<<<<<< HEAD
 
+=======
+inne wymaganie dla galezi test
+>>>>>>> test
